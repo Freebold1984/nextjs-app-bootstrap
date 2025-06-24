@@ -1,0 +1,14 @@
+README.md
+setup.py
+xss_detector/__init__.py
+xss_detector/cli.py
+xss_detector/config.py
+xss_detector/crawler.py
+xss_detector/detector.py
+xss_detector/payload_generator.py
+xss_detector.egg-info/PKG-INFO
+xss_detector.egg-info/SOURCES.txt
+xss_detector.egg-info/dependency_links.txt
+xss_detector.egg-info/entry_points.txt
+xss_detector.egg-info/requires.txt
+xss_detector.egg-info/top_level.txt
