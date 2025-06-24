@@ -1,0 +1,25 @@
+Metadata-Version: 2.4
+Name: xss-detector
+Version: 1.0.0
+Summary: AI-powered XSS Vulnerability Scanner
+Author: Security Research Team
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Information Technology
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Security
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Requires-Dist: tensorflow>=2.6.0
+Requires-Dist: gensim>=4.0.0
+Requires-Dist: requests>=2.26.0
+Requires-Dist: beautifulsoup4>=4.10.0
+Requires-Dist: numpy>=1.21.0
+Dynamic: author
+Dynamic: classifier
+Dynamic: description
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
+An enterprise-grade XSS detection tool combining traditional scanning with machine learning for comprehensive web application security testing.
